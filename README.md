@@ -39,7 +39,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - Detección de outliers y anomalías  
 - Visualización exploratoria con Python (matplotlib, seaborn)  
 - Integración de Python con SQL para análisis
-- EDA avanzado: análisis multivariable y segmentación
+- Mini proyecto: diseño de IA sencilla en Python
 - Feature Engineering y preparación analítica 
 
 ---
